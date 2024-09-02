@@ -1,0 +1,347 @@
+{
+  "main": {
+    "id": "7b93217431278ade",
+    "type": "split",
+    "children": [
+      {
+        "id": "41850cee569e4de2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d39089ee0a012b99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/FPV/4. Conditionals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8105a9d93d9d3241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/FPV/5. Summary Conditionals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53a61bf371558bef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/FPV/8. Optimisation without Loops.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1925c4e5f4dca160",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "4bdb61edad94869c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/FPV/12. Recursive Modular Verification and procedures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cce5e6c118d660ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/FPV/13. Application to Fibonacci.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a34da44a43d4c5b0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a344b4b82c944425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/FPV/3. General Principle and Local Consistency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d72b81bcf1f815e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/FPV/3. General Principle and Local Consistency.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a6f6833ffe12d65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/FPV/2. Count program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "457a47bef01ec73f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-01 18.38.59.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "e7649e3045a7203b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2_Areas/FPV/4. Conditionals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb295d7077220922",
+    "type": "split",
+    "children": [
+      {
+        "id": "f295d806ec6cf561",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6b8b1bb55ab6ddd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42647e16ce92f8b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8996bb074c094aaa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9a5d49853c8ef10e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b2d8c3403a0aed3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c4e3179cf76c37",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "91954577e3dcfad9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2_Areas/FPV/4. Conditionals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "655780589816df6a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2_Areas/FPV/4. Conditionals.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d0a785b8828a44e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e65f3d7755f60e1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2_Areas/FPV/4. Conditionals.md"
+              }
+            }
+          },
+          {
+            "id": "fe01b37ffa8dd727",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "a34da44a43d4c5b0",
+  "lastOpenFiles": [
+    "FPV.canvas",
+    "2_Areas/FPV/11. Modular Verification and Procedures.md",
+    "2_Areas/FPV/12. Recursive Modular Verification and procedures.md",
+    "2_Areas/FPV/13. Application to Fibonacci.md",
+    "2_Areas/FPV/14. Procedures with Local Variables.md",
+    "0_Inbox/wha.md",
+    "Images/Pasted image 20240902152722.png",
+    "Images/Pasted image 20240902143901.png",
+    "Images/Pasted image 20240902143856.png",
+    "Images/Pasted image 20240902142448.png",
+    "Untitled.canvas",
+    "2_Areas/FPV/1. Laws.md",
+    "Periodic Notes/1_weekly/2024-W36.md",
+    "2_Areas/FPV/10. Termination.md",
+    "0_Inbox/2024-09-02.md",
+    "Images/Pasted image 20240902004711.png",
+    "Excalidraw/Drawing 2024-09-02 00.43.31.excalidraw.md",
+    "2_Areas/FPV/9. Optimisation with Loops.md",
+    "2_Areas/FPV/8. Optimisation without Loops.md",
+    "Excalidraw/Drawing 2024-09-01 16.33.21.excalidraw.md",
+    "2_Areas/FPV/4. Conditionals.md",
+    "2_Areas/FPV/3. General Principle and Local Consistency.md",
+    "Images/Pasted image 20240901211046.png",
+    "Images/Pasted image 20240901205355.png",
+    "2_Areas/FPV/7. Evaluation of Expressions.md",
+    "Images/Pasted Image 20240901202729_504.png",
+    "Images",
+    "Images/Pasted Image 20240901202752_628.png",
+    "Excalidraw/The GCD Example.excalidraw.md",
+    "2_Areas/FPV/6. Correctnes.md",
+    "2_Areas/FPV/5. Summary Conditionals.md",
+    "Excalidraw/Drawing 2024-09-01 18.38.59.excalidraw.md",
+    "2_Areas/FPV/2. Count program.md",
+    "Periodic Notes/0_daily/2024-09-01.md",
+    "Pasted Image 20240901190802_076.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "2_Areas/FPV/Lecture 1 and 2",
+    "2_Areas/FPV/Untitled.md",
+    "Excalidraw",
+    "templates/Zettel template.md",
+    "templates/daily.md",
+    "2_Areas/FPV",
+    "templates/Untitled",
+    "Periodic Notes/2_monthly",
+    "Periodic Notes/1_weekly",
+    "Periodic Notes/0_daily",
+    "Periodic Notes",
+    "templates"
+  ]
+}
