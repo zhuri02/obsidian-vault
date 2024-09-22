@@ -4,145 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "41850cee569e4de2",
+        "id": "85994fe9655cf9fa",
         "type": "tabs",
         "children": [
           {
-            "id": "d39089ee0a012b99",
+            "id": "4e32aca272032d8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/FPV/4. Conditionals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8105a9d93d9d3241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/FPV/5. Summary Conditionals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53a61bf371558bef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/FPV/8. Optimisation without Loops.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1925c4e5f4dca160",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "4bdb61edad94869c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/FPV/12. Recursive Modular Verification and procedures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cce5e6c118d660ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/FPV/13. Application to Fibonacci.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a34da44a43d4c5b0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a344b4b82c944425",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/FPV/3. General Principle and Local Consistency.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d72b81bcf1f815e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/FPV/3. General Principle and Local Consistency.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a6f6833ffe12d65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/FPV/2. Count program.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "457a47bef01ec73f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-01 18.38.59.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "e7649e3045a7203b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2_Areas/FPV/4. Conditionals.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2_Areas/FPV/4. Conditionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2_Areas/FPV/4. Conditionals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2_Areas/FPV/4. Conditionals.md"
-              }
+              "state": {}
             }
           },
           {
@@ -278,7 +147,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -292,56 +160,57 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a34da44a43d4c5b0",
+  "active": "4e32aca272032d8f",
   "lastOpenFiles": [
-    "FPV.canvas",
-    "2_Areas/FPV/11. Modular Verification and Procedures.md",
-    "2_Areas/FPV/12. Recursive Modular Verification and procedures.md",
-    "2_Areas/FPV/13. Application to Fibonacci.md",
+    "Periodic Notes/0_daily/2024-09-22.md",
     "2_Areas/FPV/14. Procedures with Local Variables.md",
-    "0_Inbox/wha.md",
-    "Images/Pasted image 20240902152722.png",
-    "Images/Pasted image 20240902143901.png",
-    "Images/Pasted image 20240902143856.png",
-    "Images/Pasted image 20240902142448.png",
-    "Untitled.canvas",
-    "2_Areas/FPV/1. Laws.md",
-    "Periodic Notes/1_weekly/2024-W36.md",
+    "2_Areas/Untitled",
+    "2_Areas/FPV/13. Application to Fibonacci.md",
+    "2_Areas/FPV/12. Recursive Modular Verification and procedures.md",
+    "2_Areas/FPV/11. Modular Verification and Procedures.md",
     "2_Areas/FPV/10. Termination.md",
-    "0_Inbox/2024-09-02.md",
-    "Images/Pasted image 20240902004711.png",
-    "Excalidraw/Drawing 2024-09-02 00.43.31.excalidraw.md",
     "2_Areas/FPV/9. Optimisation with Loops.md",
     "2_Areas/FPV/8. Optimisation without Loops.md",
-    "Excalidraw/Drawing 2024-09-01 16.33.21.excalidraw.md",
-    "2_Areas/FPV/4. Conditionals.md",
-    "2_Areas/FPV/3. General Principle and Local Consistency.md",
-    "Images/Pasted image 20240901211046.png",
-    "Images/Pasted image 20240901205355.png",
     "2_Areas/FPV/7. Evaluation of Expressions.md",
-    "Images/Pasted Image 20240901202729_504.png",
-    "Images",
-    "Images/Pasted Image 20240901202752_628.png",
-    "Excalidraw/The GCD Example.excalidraw.md",
     "2_Areas/FPV/6. Correctnes.md",
     "2_Areas/FPV/5. Summary Conditionals.md",
-    "Excalidraw/Drawing 2024-09-01 18.38.59.excalidraw.md",
+    "2_Areas/FPV/4. Conditionals.md",
+    "2_Areas/FPV/3. General Principle and Local Consistency.md",
     "2_Areas/FPV/2. Count program.md",
-    "Periodic Notes/0_daily/2024-09-01.md",
-    "Pasted Image 20240901190802_076.png",
+    "2_Areas/FPV/1. Laws.md",
+    "2_Areas/FPV/Tutorial/1.2 Assertions.md",
+    "2_Areas/FPV/Tutorial/2.1 From Post- to Pre-conditions.md",
+    "2_Areas/FPV/Tutorial/1.4 Strongest postconditions.md",
+    "2_Areas/FPV/Tutorial/1.3 The Strong and the Weak.md",
+    "2_Areas/FPV/Tutorial/3.3 Two b, or Not Two b.md",
+    "0_Inbox/15.  Formal Verification for OCaml.md",
+    "0_Inbox/Untitled.md",
+    "Periodic Notes/0_daily/2024-09-18.md",
+    "2_Areas/FPV/Tutorial/3.2 Loop Invariants.md",
+    "0_Inbox/4.3 A Wavy Approach.md",
+    "Pasted image 20240905162805.png",
+    "2_Areas/FPV/Tutorial/4.1 Y?.md",
+    "Pasted image 20240905152945.png",
+    "Images/Pasted image 20240904213421.png",
+    "Images/Pasted image 20240904163109.png",
+    "FPV.canvas",
+    "Images/Pasted image 20240903163203.png",
+    "Images/Pasted image 20240903162939.png",
+    "Images/Pasted image 20240903162931.png",
+    "Images/Pasted image 20240903162922.png",
+    "Images/Pasted image 20240903162811.png",
+    "2_Areas/FPV/Tutorial",
+    "Images/Pasted image 20240902152722.png",
+    "Untitled.canvas",
+    "Images",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "2_Areas/FPV/Lecture 1 and 2",
-    "2_Areas/FPV/Untitled.md",
     "Excalidraw",
-    "templates/Zettel template.md",
-    "templates/daily.md",
     "2_Areas/FPV",
     "templates/Untitled",
     "Periodic Notes/2_monthly",
     "Periodic Notes/1_weekly",
-    "Periodic Notes/0_daily",
-    "Periodic Notes",
-    "templates"
+    "Periodic Notes/0_daily"
   ]
 }

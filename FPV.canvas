@@ -1,19 +1,19 @@
 {
 	"nodes":[
-		{"id":"35e282a364e269e7","x":1472,"y":4623,"width":400,"height":400,"type":"file","file":"2_Areas/FPV/14. Procedures with Local Variables.md"},
-		{"id":"1e8d0b290ae7915d","type":"file","file":"2_Areas/FPV/2. Count program.md","x":200,"y":-1480,"width":880,"height":760},
-		{"id":"c622e424f5f50f27","type":"file","file":"2_Areas/FPV/1. Laws.md","x":-1310,"y":-1480,"width":870,"height":680},
-		{"id":"2c86d3375720ca43","type":"file","file":"2_Areas/FPV/3. General Principle and Local Consistency.md","x":-1310,"y":-448,"width":870,"height":608},
-		{"id":"a59b9577000851f0","type":"file","file":"2_Areas/FPV/4. Conditionals.md","x":188,"y":-448,"width":892,"height":839},
-		{"id":"b1d75baae7f20c27","type":"file","file":"2_Areas/FPV/6. Correctnes.md","x":-1412,"y":600,"width":1075,"height":811},
-		{"id":"eb06d1b2a26dfb14","type":"file","file":"2_Areas/FPV/7. Evaluation of Expressions.md","x":-1331,"y":1880,"width":914,"height":680},
-		{"id":"5ec5ebae2f446ed7","type":"file","file":"2_Areas/FPV/5. Summary Conditionals.md","x":188,"y":731,"width":1092,"height":680},
-		{"id":"4046503ee1585796","type":"file","file":"2_Areas/FPV/8. Optimisation without Loops.md","x":252,"y":1780,"width":964,"height":881},
-		{"id":"6174293055c61ccd","type":"file","file":"2_Areas/FPV/9. Optimisation with Loops.md","x":-1331,"y":2960,"width":915,"height":880},
-		{"id":"c0f78bbc02107377","type":"file","file":"2_Areas/FPV/10. Termination.md","x":0,"y":2960,"width":1654,"height":1360},
-		{"id":"f2f78d450044b581","x":-904,"y":4892,"width":400,"height":400,"type":"file","file":"2_Areas/FPV/11. Modular Verification and Procedures.md"},
-		{"id":"0c56addb5bfff005","x":770,"y":4614,"width":400,"height":400,"type":"file","file":"2_Areas/FPV/12. Recursive Modular Verification and procedures.md"},
-		{"id":"b4b9c94d2e8c56ea","x":-337,"y":4731,"width":400,"height":400,"type":"file","file":"2_Areas/FPV/13. Application to Fibonacci.md"}
+		{"id":"a59b9577000851f0","type":"file","file":"2_Areas/FPV/4. Conditionals.md","x":-160,"y":-982,"width":892,"height":839},
+		{"id":"1e8d0b290ae7915d","type":"file","file":"2_Areas/FPV/2. Count program.md","x":-160,"y":-2740,"width":880,"height":760},
+		{"id":"c622e424f5f50f27","type":"file","file":"2_Areas/FPV/1. Laws.md","x":-3142,"y":-2660,"width":870,"height":680},
+		{"id":"2c86d3375720ca43","type":"file","file":"2_Areas/FPV/3. General Principle and Local Consistency.md","x":-3142,"y":-751,"width":870,"height":608},
+		{"id":"b1d75baae7f20c27","type":"file","file":"2_Areas/FPV/6. Correctnes.md","x":-3223,"y":640,"width":1075,"height":811},
+		{"id":"5ec5ebae2f446ed7","type":"file","file":"2_Areas/FPV/5. Summary Conditionals.md","x":-260,"y":771,"width":1092,"height":680},
+		{"id":"4046503ee1585796","type":"file","file":"2_Areas/FPV/8. Optimisation without Loops.md","x":-132,"y":2720,"width":964,"height":881},
+		{"id":"eb06d1b2a26dfb14","type":"file","file":"2_Areas/FPV/7. Evaluation of Expressions.md","x":-3142,"y":2921,"width":914,"height":680},
+		{"id":"6174293055c61ccd","type":"file","file":"2_Areas/FPV/9. Optimisation with Loops.md","x":-3308,"y":4640,"width":1160,"height":880},
+		{"id":"c0f78bbc02107377","type":"file","file":"2_Areas/FPV/10. Termination.md","x":-477,"y":4640,"width":1654,"height":1360},
+		{"id":"f2f78d450044b581","type":"file","file":"2_Areas/FPV/11. Modular Verification and Procedures.md","x":-3330,"y":7520,"width":1291,"height":1054},
+		{"id":"0c56addb5bfff005","type":"file","file":"2_Areas/FPV/12. Recursive Modular Verification and procedures.md","x":178,"y":7534,"width":1309,"height":1040},
+		{"id":"b4b9c94d2e8c56ea","type":"file","file":"2_Areas/FPV/13. Application to Fibonacci.md","x":-3388,"y":9920,"width":1320,"height":1160},
+		{"id":"35e282a364e269e7","type":"file","file":"2_Areas/FPV/14. Procedures with Local Variables.md","x":178,"y":9920,"width":1839,"height":1510}
 	],
 	"edges":[
 		{"id":"e37e968a38e9baa2","fromNode":"c622e424f5f50f27","fromSide":"right","toNode":"1e8d0b290ae7915d","toSide":"left"},
@@ -24,6 +24,13 @@
 		{"id":"db8ffe25fabf4e16","fromNode":"a59b9577000851f0","fromSide":"bottom","toNode":"5ec5ebae2f446ed7","toSide":"top"},
 		{"id":"e639a48da888ce28","fromNode":"5ec5ebae2f446ed7","fromSide":"left","toNode":"b1d75baae7f20c27","toSide":"right"},
 		{"id":"32571a746561eaf5","fromNode":"2c86d3375720ca43","fromSide":"bottom","toNode":"b1d75baae7f20c27","toSide":"top"},
-		{"id":"93e61b1be093ae6f","fromNode":"b1d75baae7f20c27","fromSide":"bottom","toNode":"eb06d1b2a26dfb14","toSide":"top"}
+		{"id":"93e61b1be093ae6f","fromNode":"b1d75baae7f20c27","fromSide":"bottom","toNode":"eb06d1b2a26dfb14","toSide":"top"},
+		{"id":"07f719ae4801d1e9","fromNode":"eb06d1b2a26dfb14","fromSide":"right","toNode":"4046503ee1585796","toSide":"left"},
+		{"id":"979a816a393fffe3","fromNode":"4046503ee1585796","fromSide":"left","toNode":"6174293055c61ccd","toSide":"top"},
+		{"id":"467ed958f06bf298","fromNode":"6174293055c61ccd","fromSide":"right","toNode":"c0f78bbc02107377","toSide":"left"},
+		{"id":"cb6726f2c01b5e0a","fromNode":"c0f78bbc02107377","fromSide":"left","toNode":"f2f78d450044b581","toSide":"top"},
+		{"id":"79b5ea9cb02e245e","fromNode":"f2f78d450044b581","fromSide":"right","toNode":"0c56addb5bfff005","toSide":"left"},
+		{"id":"f0729ffc578944b3","fromNode":"0c56addb5bfff005","fromSide":"left","toNode":"b4b9c94d2e8c56ea","toSide":"top"},
+		{"id":"c123b70e8e213f6d","fromNode":"b4b9c94d2e8c56ea","fromSide":"right","toNode":"35e282a364e269e7","toSide":"left"}
 	]
 }
