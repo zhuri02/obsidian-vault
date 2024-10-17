@@ -6,5 +6,7 @@
   "periodic-notes",
   "templater-obsidian",
   "obsidian-vault-statistics-plugin",
-  "mermaid-tools"
+  "mermaid-tools",
+  "obsidian-minimal-settings",
+  "obsidian-style-settings"
 ]

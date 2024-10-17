@@ -48,5 +48,14 @@
       ],
       "key": "F"
     }
+  ],
+  "obsidian-latex-suite:latex-suite-enable-all-features": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "E"
+    }
   ]
 }

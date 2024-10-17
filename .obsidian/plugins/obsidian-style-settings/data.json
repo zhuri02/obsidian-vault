@@ -1,0 +1,10 @@
+{
+  "minimal-style@@tx1@@light": "#EBECF0",
+  "minimal-style@@bold-color@@light": "#87CEEB",
+  "minimal-style@@bold-color@@dark": "#87CEEB",
+  "minimal-style@@italic-color@@light": "#E787EB",
+  "minimal-style@@italic-color@@dark": "#E787EB",
+  "minimal-style@@tx1@@dark": "#EBECF0",
+  "minimal-style@@hl2@@dark": "#FF0000",
+  "minimal-style@@hl2@@light": "#FF0000"
+}
