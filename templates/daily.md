@@ -1,10 +1,8 @@
 ## [[<% tp.date.yesterday () %>]] - [[<% tp.date.tomorrow () %>]]
 
 ## Daily Deeds & Rituals
-
-- [ ] Gehe 10k Schritte
-- [ ] 30 Seiten GAD auf Obsidian notieren
-- [ ] 
-- [ ] 
+- [ ] Übungsblatt 11
+- [ ] Übungsblatt 12
+- [ ] 4h produktiv lernen
 
 ## Log

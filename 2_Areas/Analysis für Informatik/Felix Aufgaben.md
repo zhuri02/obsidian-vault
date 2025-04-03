@@ -1,0 +1,125 @@
+# Aufgabenübersicht
+
+## Aufgabenliste mit Unteraufgaben
+
+- [ ] **Aufgabe 1 (Funktionsgrenzwerte)**  
+  - [x] (i)  
+  - [x] (ii)  
+  - [x] (iii)  
+  - [x] (iv)  
+  - [x] (v)  
+  - [x] (vi)  
+  - [x] (vii)  
+  - [x] (viii)  
+  - [x] (ix)  
+  - [x] (x)  
+  - [x] (xi)  
+  - [x] (xii)  
+  - [x] (xiii)  
+  - [x] (xiv)  
+  - [x] (xv)
+- [x] **Aufgabe 2 (Mittelwertsatz)**  
+- [ ] **Aufgabe 3 (Satz von Max/Min bzw. Mittelwertsatz)**  
+  - [x] (i)  
+  - [x] (ii) (Do again!)
+- [x] **Aufgabe 4 (Univariate Kurvendiskussion)**  
+- [x] **Aufgabe 5 (Konvexität)**  
+  - [x] (a)  
+  - [x] (b) (Do again!)
+- [ ] **Aufgabe 6 (Stetigkeit/Differenzierbarkeit)**  
+  - [x] (a)  
+  - [x] (b)  
+  - [ ] (c)
+- [ ] **Aufgabe 7 (Grenzwertberechnung mit Mittelwertsatz)**  
+- [ ] **Aufgabe 8 (Landau-Symbole I)**  
+  - [ ] (i)  
+  - [ ] (ii)  
+  - [ ] (iii)
+- [ ] **Aufgabe 9 (Landau-Symbole II)**  
+  - [ ] (i)  
+  - [ ] (ii)  
+  - [ ] (iii)
+- [ ] **Aufgabe 10 (Stetigkeit)**  
+- [ ] **Aufgabe 11 (Zwischenwertsatz)**  
+- [ ] **Aufgabe 12 (Topologie)**  
+  - [ ] (a)  
+  - [ ] (b)
+- [ ] **Aufgabe 13 (Folgen)**  
+  - [ ] (a)  
+  - [ ] (b)
+- [ ] **Aufgabe 14 (Rekursiv definierte Folgen)**  
+  - [ ] (a)  
+  - [ ] (b)
+- [ ] **Aufgabe 15 (Bolzano-Weierstraß)**  
+- [ ] **Aufgabe 16 (Konvergenz/Divergenz von Reihen)**  
+  - [ ] (i)  
+  - [ ] (ii)  
+  - [ ] (iii)  
+  - [ ] (iv)  
+  - [ ] (v)  
+  - [ ] (vi)  
+  - [ ] (vii)  
+  - [ ] (viii)  
+  - [ ] (ix)
+- [ ] **Aufgabe 17 (Reihenwerte)**  
+  - [ ] (i)  
+  - [ ] (ii)  
+  - [ ] (iii)  
+  - [ ] (iv)
+- [ ] **Aufgabe 18 (Integrale)**  
+  - [x] (i)  
+  - [x] (ii)  
+  - [x] (iii)  
+  - [x] (iv)  
+  - [x] (v)  
+  - [x] (vi)  
+  - [x] (vii)  
+  - [x] (viii)  
+  - [x] (ix)  
+  - [x] (x)  
+  - [x] (xi)  
+  - [x] (xii)  
+  - [ ] (xiii)  (zu schwer)
+  - [x] (xiv)  
+  - [x] (xv)  
+  - [x] (xvi)  
+  - [x] (xvii)  
+  - [x] (xviii)  
+  - [x] (xix)  
+  - [x] (xx)  
+  - [x] (xxi)  
+  - [x] (xxii)  
+  - [x] (xxiii)  
+  - [x] (xxiv)  
+  - [x] (xxv)
+- [ ] **Aufgabe 19 (Integrationsregel für Umkehrfunktionen)**  
+- [ ] **Aufgabe 20 (Hauptsatz der Differential- und Integralrechnung)**  
+  - [ ] (a)  
+  - [ ] (b)
+- [ ] **Aufgabe 21 (Weierstraßsches Majorantenkriterium)**  
+- [ ] **Aufgabe 22 (Funktionenfolgen: Punktweise und gleichmäßige Konvergenz)**  
+  - [x] (i)  
+  - [x] (ii)  
+  - [ ] (iii)  
+  - [x] (iv)  
+  - [ ] (v)  
+  - [ ] (vi)  
+  - [ ] (vii)  
+  - [ ] (viii)  
+  - [ ] (ix)  
+  - [ ] (x)  
+  - [x] (xi)  
+  - [ ] (xii)  
+  - [x] (xiii)  
+  - [ ] (xiv)  
+  - [ ] (xv)  
+  - [ ] (xvi)  
+  - [x] (xvii)
+
+# Links: 
+
+
+
+
+202501281336
+[[2025-01-28]]
