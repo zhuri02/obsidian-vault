@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "13e105a89d8327ff",
+        "id": "bdbc33779ea84c2e",
         "type": "tabs",
         "children": [
           {
-            "id": "061fa3de2136135a",
+            "id": "6a082b5bb03093af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic Notes/0_daily/2025-07-06.md",
+                "file": "Periodic Notes/0_daily/2025-08-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-06"
+              "title": "2025-08-01"
             }
           }
         ]
@@ -211,34 +211,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "061fa3de2136135a",
+  "active": "6a082b5bb03093af",
   "lastOpenFiles": [
-    "Periodic Notes/0_daily/2025-07-05.md",
-    "Periodic Notes/0_daily/2025-07-06.md",
-    "0_Inbox/Praktika.md",
-    "Periodic Notes/0_daily/2025-07-04.md",
+    "Periodic Notes/0_daily/2025-07-31.md",
+    "Periodic Notes/0_daily/2025-08-01.md",
+    "Periodic Notes/0_daily/2025-07-29.md",
+    "Periodic Notes/0_daily/2025-07-28.md",
+    "Periodic Notes/0_daily/2025-07-27.md",
+    "Periodic Notes/0_daily/2025-07-20.md",
+    "Periodic Notes/0_daily/2025-07-18.md",
+    "Periodic Notes/0_daily/2025-07-14.md",
+    "Periodic Notes/0_daily/2025-07-08.md",
+    "Periodic Notes/0_daily/2025-07-10.md",
+    "Periodic Notes/0_daily/2025-07-11.md",
+    "Periodic Notes/0_daily/2025-07-12.md",
+    "Periodic Notes/0_daily/2025-07-25.md",
+    "Periodic Notes/0_daily/2025-07-24.md",
+    "Periodic Notes/0_daily/2025-07-23.md",
+    "Periodic Notes/0_daily/2025-07-22.md",
+    "Periodic Notes/0_daily/2025-07-21.md",
+    "Periodic Notes/0_daily/2025-07-19.md",
+    "Periodic Notes/0_daily/2025-07-17.md",
+    "Periodic Notes/0_daily/2025-07-26.md",
     "templates/daily.md",
-    "Periodic Notes/0_daily/2025-07-03.md",
-    "Periodic Notes/0_daily/2025-07-02.md",
-    "templates/monthly.md",
-    "Periodic Notes/0_daily/2025-07-01.md",
-    "Periodic Notes/0_daily/2025-06-29.md",
-    "Periodic Notes/0_daily/2025-06-28.md",
-    "Periodic Notes/0_daily/2025-06-27.md",
-    "0_Inbox/2025-06-28.md",
-    "Periodic Notes/0_daily/2025-06-26.md",
-    "Periodic Notes/0_daily/2025-06-25.md",
-    "Periodic Notes/0_daily/2025-06-24.md",
-    "Periodic Notes/0_daily/2025-06-23.md",
-    "Periodic Notes/0_daily/2025-06-22.md",
-    "Periodic Notes/0_daily/2025-06-20.md",
-    "Periodic Notes/0_daily/2025-06-18.md",
-    "Periodic Notes/0_daily/2025-06-17.md",
-    "Periodic Notes/0_daily/2025-06-16.md",
-    "Periodic Notes/0_daily/2025-06-15.md",
-    "Periodic Notes/0_daily/2025-06-13.md",
-    "Periodic Notes/0_daily/2025-06-10.md",
-    "Periodic Notes/0_daily/2025-06-09.md",
+    "2_Areas/FPV/14. Procedures with Local Variables.md",
+    "2_Areas/FPV/13. Application to Fibonacci.md",
+    "2_Areas/FPV/12. Recursive Modular Verification and procedures.md",
+    "2_Areas/FPV/11. Modular Verification and Procedures.md",
+    "Periodic Notes/0_daily/2025-07-16.md",
     "4_Archive/fpv.zip",
     "Images/Pasted Image 20240901202729_504.png",
     "2_Areas/NeetCode",
